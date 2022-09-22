@@ -1,6 +1,7 @@
 Testing Inventory
 #Markdown test
-Does it work?
+
+_**Does it work?**_
 
 Testing a text cell with markdown
 =================================
