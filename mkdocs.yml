@@ -23,3 +23,7 @@ theme:
 
   font:
     text: Montserrat
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tracking
