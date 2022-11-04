@@ -1,25 +1,26 @@
 site_name: Sightline Docs
 theme:
   name: material
-  favicon: images/favicon.png
+  favicon: images/favicon.ico
   logo: images/Sightline_SL_Blue.png
   palette:
 
     # Palette toggle for light mode
     - scheme: default
-      toggle: 
-      icon: material/brightness-7
-      name: Switch to dark mode
       primary: white
       accent: light blue
+      toggle: 
+        icon: material/brightness-7
+        name: Switch to dark mode
+      
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: blue grey
+      accent: light blue
       toggle: 
-      icon: material/brightness-4
-      name: Switch to light mode
-      primary: grey
-      accent: deep purple
+        icon: material/brightness-4
+        name: Switch to light mode
 
   font:
     text: Montserrat
