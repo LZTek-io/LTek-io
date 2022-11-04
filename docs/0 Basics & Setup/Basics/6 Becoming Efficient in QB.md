@@ -1,1 +1,1 @@
-# Coming soon!
+# 6 Becoming Efficient in QB

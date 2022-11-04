@@ -1,1 +1,1 @@
-# Coming soon!
+# 1 How to Navigate Quickbase

@@ -1,3 +1,5 @@
+# 2 Product & Inventory
+
 Testing Inventory
 #Markdown test
 

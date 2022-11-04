@@ -1,3 +1,5 @@
+# 1 HR Manager
+
 Welcome to HR Managment setup. Here we will walk thorugh all the steps nessisary to get your company set up into the system. 
 
 Lets begin by inputting company information.
