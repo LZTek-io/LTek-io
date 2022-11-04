@@ -1,7 +1,7 @@
 site_name: Sightline Docs
 theme:
 
-#docs_dir: 'docs/en'
+docs_dir: 'docs/en'
 
   name: material
   custom_dir: 'overrides/'
@@ -36,9 +36,6 @@ theme:
     - toc.follow
     - navigation.top
 
-extra_css:
-  - assets/stylesheets/main.min.css
-  - assets/stylesheets/palette.min.css
 
 #extra:
 #  alternate:
