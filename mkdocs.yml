@@ -1,12 +1,15 @@
 site_name: Sightline Docs
+
+# Remove these two to go back to no languages.
+docs_dir: 'docs/en'
+site_dir: 'generated/en'
+
 theme:
-
-#docs_dir: 'docs/en'
-
   name: material
   custom_dir: 'overrides/'
   favicon: assets/images/favicon.ico
   logo: assets/images/Sightline_SL_Blue.png
+  language: en
   palette:
 
     # Palette toggle for light mode
@@ -40,14 +43,19 @@ extra_css:
   - assets/stylesheets/main.min.css
   - assets/stylesheets/palette.min.css
 
-#extra:
-#  alternate:
-#   - name: English
-#     link: /en/ 
-#     lang: en
-#   - name: Spanish
-#     link: /de/
-#     lang: es
+# Remove this extra section to go back to no languages.
+extra:
+  alternate:
+
+    # English
+    - name: English
+      link: /en/ 
+      lang: en
+
+    # Spanish
+    - name: Español
+      link: /es/
+      lang: es
 
 plugins:
   - search:
