@@ -1,8 +1,8 @@
 site_name: Sightline Docs
 
 # Remove these two to go back to no languages.
-docs_dir: 'docs/en'
-site_dir: 'generated/en'
+docs_dir: 'docs/'
+site_dir: 'generated/'
 
 theme:
   name: material

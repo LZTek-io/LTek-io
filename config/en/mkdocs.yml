@@ -62,7 +62,7 @@ plugins:
       lang: en
 
 #nav:
-#- Home: index.md
-#- Basics: Basics/
-#- Setup: Initial Setup/0 Welcome.md
-#- Plans: Plans/0 | Welcome.md
+# - Home: index.md
+# - Basics: Basics/
+# - Setup: Initial Setup/0 Welcome.md
+# - Plans: Plans/0 | Welcome.md
