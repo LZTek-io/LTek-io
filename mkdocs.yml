@@ -42,16 +42,18 @@ extra_css:
   - assets/stylesheets/main.min.css
   - assets/stylesheets/palette.min.css
 
-# Remove this extra section to go back to no languages.
+copyright: Copyright &copy; 2022 LZTEK, LLC
+
 extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/lzteknology
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/lztek/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/zNCZnKNXEv
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/lztek/
 
+# Remove this extra section to go back to no languages.
   alternate:
 
     # English
