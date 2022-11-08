@@ -2,11 +2,11 @@ site_name: Sightline Docs
 
 # Remove these two to go back to no languages.
 docs_dir: '../../docs/en'
-site_dir: '../../generated/en'
+site_dir: '../../en'
 
 theme:
   name: material
-  custom_dir: '../../overrides/'
+  custom_dir: '../../overrides'
   favicon: assets/images/favicon.ico
   logo: assets/images/Sightline_SL_Blue.png
   language: en
