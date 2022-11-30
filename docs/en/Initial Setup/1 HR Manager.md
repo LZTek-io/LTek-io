@@ -6,7 +6,7 @@ Lets begin by inputting company information.
 
 This information will be stored in the HR managment app. Begin by selecting The HR Managment App.
 
-(image)
+## (image)
 
 Within the HQ app, select the HQ icon
 
