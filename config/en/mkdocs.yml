@@ -36,6 +36,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tracking
+    - navigation.sections
     - toc.follow
     - navigation.top
 
@@ -95,8 +96,8 @@ nav:
     - Permissions/2 Users.md
   - Plans:
     - Plans/0 | Welcome.md
-    - 1 | HR Manager/How to Add an Employee.md
-    - 2 | Product & Inventory/How to Add an Element.md
-    - 3 | Equipment Manager/Equipment Feed KB.md
-    - 4 | Quality Center/How to Build a Test Template.md
-    - 5 | Production/Creating Resource Plans.md
+    - Plans/1 | HR Manager/How to Add an Employee.md
+    - Plans/2 | Product & Inventory/How to Add an Element.md
+    - Plans/3 | Equipment Manager/Equipment Feed KB.md
+    - Plans/4 | Quality Center/How to Build a Test Template.md
+    - Plans/5 | Production/Creating Resource Plans.md
