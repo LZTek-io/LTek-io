@@ -72,8 +72,21 @@ plugins:
       lang: en
 
 nav:
-  - Home: index.md
-  - Basics: Basics/0 Welcome.md
-  - Setup: Setup/0 Welcome.md
-  - Permissions: Permissions/0 Welcome.md
-  - Plans: Plans/0 | Welcome.md
+  - Home:
+    - index.md
+  - Basics:
+    - Basics/0 Welcome.md
+#    ...
+    - Basics/7 Report Field Types.md
+  - Setup:
+    - Setup/0 Welcome.md
+#    ...
+    - Setup/5 Production.md
+  - Permissions:
+    - Permissions/0 Welcome.md
+#    ...
+    - Permissions/2 Users.md
+  - Plans:
+    - Plans/0 | Welcome.md
+#    ...
+    - Plans/5 | Production/Creating Resource Plans.md
