@@ -96,7 +96,7 @@ nav:
       - Users/User Permissions.md
       - Users/Cost of Each User.md
   - Plans:
-    - Plans/0 | Welcome.md
+    - Plans/Explore.md
     - 1 | HR Manager:
       - Plans/1 | HR Manager/How to Add an Employee.md
     - 2 | Product & Inventory:
