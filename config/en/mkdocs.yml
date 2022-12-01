@@ -76,17 +76,27 @@ nav:
     - index.md
   - Basics:
     - Basics/0 Welcome.md
-#    ...
+    - Basics/1 How to Navigate in Quickbase.md
+    - Basics/2 Apps & Tables.md
+    - Basics/3 Table Reports and Exporting Reports.md
+    - Basics/4 Forms and Records.md
+    - Basics/5 Dashboards.md
+    - Basics/6 Becoming Efficient in QB.md
     - Basics/7 Report Field Types.md
   - Setup:
     - Setup/0 Welcome.md
-#    ...
+    - Setup/1 HR Manager.md
+    - Setup/2 Product & Inventory.md
+    - Setup/3 Equipment Manager.md
+    - Setup/4 Quality Center.md
     - Setup/5 Production.md
   - Permissions:
     - Permissions/0 Welcome.md
-#    ...
     - Permissions/2 Users.md
   - Plans:
     - Plans/0 | Welcome.md
-#    ...
-    - Plans/5 | Production/Creating Resource Plans.md
+    - 1 | HR Manager/How to Add an Employee.md
+    - 2 | Product & Inventory/How to Add an Element.md
+    - 3 | Equipment Manager/Equipment Feed KB.md
+    - 4 | Quality Center/How to Build a Test Template.md
+    - 5 | Production/Creating Resource Plans.md
