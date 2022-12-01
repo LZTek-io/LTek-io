@@ -36,6 +36,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tracking
+    - navigation.sections
     - toc.follow
     - navigation.top
 
@@ -90,9 +91,10 @@ nav:
     - Setup/3 Equipment Manager.md
     - Setup/4 Quality Center.md
     - Setup/5 Production.md
-  - Permissions:
-    - Permissions/0 Welcome.md
-    - Permissions/2 Users.md
+    - Users & Permissions:
+      - Users/Adding a User.md
+      - Users/User Permissions.md
+      - Users/Cost of Each User.md
   - Plans:
     - Plans/0 | Welcome.md
     - 1 | HR Manager:

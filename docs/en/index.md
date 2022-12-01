@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Welcome to Sightline Docs!
 
 ### Sightline Guides and Tutorials.
