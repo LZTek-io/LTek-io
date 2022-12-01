@@ -70,8 +70,9 @@ plugins:
   - search:
       lang: en
 
-#nav:
-#- Home: index.md
-#- Basics: Basics/
-#- Setup: Initial Setup/0 Welcome.md
-#- Plans: Plans/0 | Welcome.md
+nav:
+  - Home: en/index.md
+  - Basics: en/Basics/
+  - Setup: en/Initial Setup/0 Welcome.md
+  - Permissions: en/Permissions/0 Welcome.md
+  - Plans: en/Plans/0 | Welcome.md

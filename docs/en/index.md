@@ -1,7 +1,7 @@
 # Welcome to Sightline Docs!
 
-### Here you will find a growing user guide and tutorials for Sightline.
-These guides are designed for end users and are open to feedback in the Sightline Feedback App. Guides with (WIP) next to them are under construction.
+### Sightline Guides and Tutorials.
+These guides and tutorials are designed for end users and are open to feedback in the Sightline Feedback App. Guides with (WIP) next to them are under construction.
 
 ## Basics (WIP)
 - Learn the basics of navigating within Sightline.
