@@ -1,4 +1,4 @@
-# Sightline Basics.
+# 0 Sightline Basics
 ### Sightline is built using Quickbase's low-code platform.
 We selected Quickbase as our platform of choice because of it's fast iteration time. We can build, update, and improve the software very quickly by using Quickbase's platform as our backend.
 

@@ -1,4 +1,4 @@
-# 1 Navigating in Sightline.
+# 2 Navigation in Sightline
 ### There are five core tools we use to navigate within Sightline:
 1. Apps
 2. Dashboards
