@@ -43,7 +43,7 @@ Once you have navigated to the report you want there are different ways to edit/
 ![Report Options](../../../overrides/assets/images/en/Report_Options.png)
 
 ## 5. Forms/Records
-Each Table has a button that allows you to add a single record to the table. It will be formatted as: "+ New \<Table Name>"
+Each Table has a button that allows you to add a single record to the table. It will be formatted as: "+ New (Table Name)"
 
 To view a single record you can click the eye next to it on the left. To edit, the pencil.
 
