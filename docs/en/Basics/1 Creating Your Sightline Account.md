@@ -22,6 +22,6 @@ Future users who you invite to Sightline will go through the same account creati
 
 ---
 
-If you have any questions, or things you think should be added to our user guides please reach out to us on our [Community Discord](https://discord.gg/zNCZnKNXEv).
+If you have any questions, or things you think should be added to our user guides please reach out to us on our [Discord Community](https://discord.gg/zNCZnKNXEv).
 
 Thank you!

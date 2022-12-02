@@ -4,7 +4,7 @@ We selected Quickbase as our platform of choice because of it's fast iteration t
 
 In this guide we will review how to navigate within Sightline. Because the platform is built on Quickbase's platform there are some very straight forward built-in navigational tools which we will review.
 
-Sightline uses "Apps" that allow you to separate core features and functions from one another. The Sightline App Suite consists of 22 unique and different apps. Each time our team encounters a new industry a new app may be made and integrated into the software platform for that industry. Any app we develop in Sightline will be available to other users and we will keep the community up to date as best we can in our [Community Discord](https://discord.gg/zNCZnKNXEv).
+Sightline uses "Apps" that allow you to separate core features and functions from one another. The Sightline App Suite consists of 22 unique and different apps. Each time our team encounters a new industry a new app may be made and integrated into the software platform for that industry. Any app we develop in Sightline will be available to other users and we will keep the community up to date as best we can in our [Discord Community](https://discord.gg/zNCZnKNXEv).
 
 Here is a list of the apps in our current app suite:
 
@@ -40,7 +40,7 @@ Please reference the nav bar on the left to jump between the different navigatio
 
 ---
 
-If you have any questions, or things you think should be added to our user guides please reach out to us on our [Community Discord](https://discord.gg/zNCZnKNXEv).
+If you have any questions, or things you think should be added to our user guides please reach out to us on our [Discord Community](https://discord.gg/zNCZnKNXEv).
 
 Thank you!
 
