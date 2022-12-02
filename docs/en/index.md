@@ -28,6 +28,8 @@ These guides and tutorials are designed for end users and are open to feedback i
 - Explore the possibilities of each app and what each app is capable of doing.
 - Learn about the functionality of your app beyond the initial setup like daily use and scheduled automations.
 
-If you have any questions, or things you think should be added to our user guides please reach out to us on our [Community Discord](https://discord.gg/zNCZnKNXEv) where we have a ticketing system.
+---
+
+If you have any questions, or things you think should be added to our user guides please reach out to us on our [Community Discord](https://discord.gg/zNCZnKNXEv).
 
 Thank you!

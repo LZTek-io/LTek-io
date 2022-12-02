@@ -77,13 +77,14 @@ nav:
     - index.md
   - Basics:
     - Basics/0 Welcome.md
-    - Basics/1 How to Navigate in Quickbase.md
-    - Basics/2 Apps & Tables.md
-    - Basics/3 Table Reports and Exporting Reports.md
-    - Basics/4 Forms and Records.md
-    - Basics/5 Dashboards.md
-    - Basics/6 Becoming Efficient in QB.md
+    - Basics/1 Creating Your Sightline Account.md
+    - Basics/2 Navigation in Sightline.md
+    - Basics/3 Apps & Tables.md
+    - Basics/4 Table Reports and Exporting Reports.md
+    - Basics/5 Forms and Records.md
+    - Basics/6 Dashboards.md
     - Basics/7 Report Field Types.md
+    - Basics/8 Becoming Efficient in QB.md
   - Setup:
     - Setup/0 Welcome.md
     - Setup/1 HR Manager.md
@@ -106,4 +107,4 @@ nav:
     - 4 | Quality Center:
       - Plans/4 | Quality Center/How to Build a Test Template.md
     - 5 | Production:
-      - Plans/5 | Production/Creating Resource Plans.md
+      - Plans/5 | Production/Creating Resource Plans.md 
