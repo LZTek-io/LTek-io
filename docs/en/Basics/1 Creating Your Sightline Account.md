@@ -1,4 +1,4 @@
-# 1 Creating Your Account
+# Creating Your Account
 ### 1. Sign up for Sightline.
 
    After signing up for Sightline a member of our team will enable your administrator account and grant you access to your new company account.

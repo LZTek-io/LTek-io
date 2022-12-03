@@ -1,4 +1,4 @@
-# 0 Sightline Basics
+# Sightline Basics
 ### Sightline is built using Quickbase's low-code platform.
 We selected Quickbase as our platform of choice because of it's fast iteration time. We can build, update, and improve the software very quickly by using Quickbase's platform as our backend.
 
@@ -27,20 +27,19 @@ Here is a list of the apps in our current app suite:
 17. Purchase Orders
 18. ERP
 19. User Feedback
+20. Cut & Sew*
+21. IT & Backend*
+22. Propertii*
 
-Industry Specific Apps:
-
-20. Cut & Sew
-21. IT & Backend
-22. Propertii
+_*Industry Specific Apps_
  
 (List updated on 2022/12/02)
 
-Please reference the nav bar on the left to jump between the different navigational guides.
+Please reference the nav bar on the left to jump between the different basic guides.
 
 ---
 
-If you have any questions, or things you think should be added to our user guides please reach out to us on our [Discord Community](https://discord.gg/zNCZnKNXEv).
+If you have any questions, or things you think should be added to our user guides please reach out to us on our [Discord Community](https://discord.gg/zNCZnKNXEv)!
 
 Thank you!
 
