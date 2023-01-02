@@ -53,4 +53,4 @@ You can create, view, and modify a record from the report/table view. Create a r
 
 ---
 
-That's all there is to it! Once you understand these 5 basics of navigation exploring and find your way around in Sightline will be a breeze. Check out the next guide by clicking the arrow on the right below!
+That's all there is to it! Once you understand these 5 basics of navigation exploring and finding your way around in Sightline will be a breeze. Check out the next guide by clicking the arrow on the right below!

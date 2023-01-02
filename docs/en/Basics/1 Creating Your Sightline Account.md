@@ -15,7 +15,7 @@
 
 ### 4. You're done!
 
-   Your account has been created and you now have access to Sightline. To return to sightline please bookmark the following webpage: [https://lztek.quickbase.com](https://lztek.quickbase.com)
+   Your account has been created and you now have access to Sightline. To return to Sightline please bookmark the following webpage: [https://lztek.quickbase.com](https://lztek.quickbase.com)
 
 
 Future users who you invite to Sightline will go through the same account creation process when you add them from the HQ Permissions App.

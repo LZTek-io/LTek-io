@@ -92,10 +92,11 @@ nav:
     - Setup/3 Equipment Manager.md
     - Setup/4 Quality Center.md
     - Setup/5 Production.md
-    - Users & Permissions:
-      - Users/Adding a User.md
-      - Users/User Permissions.md
-      - Users/Cost of Each User.md
+  - Administration:
+    - Administration/1 Adding a User.md
+    - Administration/2 User Permissions.md
+    - Administration/3 Cost of Each User.md
+    - Administration/4 Testing User Roles.md
   - Plans:
     - Plans/Explore.md
     - 1 | HR Manager:

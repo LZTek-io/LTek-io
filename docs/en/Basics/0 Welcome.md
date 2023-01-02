@@ -6,7 +6,7 @@ In this guide we will review how to navigate within Sightline. Because the platf
 
 Sightline uses "Apps" that allow you to separate core features and functions from one another. The Sightline App Suite consists of 22 unique and different apps. Each time our team encounters a new industry a new app may be made and integrated into the software platform for that industry. Any app we develop in Sightline will be available to other users and we will keep the community up to date as best we can in our [Discord Community](https://discord.gg/zNCZnKNXEv).
 
-Here is a list of the apps in our current app suite:
+### List of the apps in our current app suite:
 
 1. HQ Permissions
 2. Client Permissions
@@ -27,11 +27,11 @@ Here is a list of the apps in our current app suite:
 17. Purchase Orders
 18. ERP
 19. User Feedback
-20. Cut & Sew*
-21. IT & Backend*
-22. Propertii*
+20. Cut & Sew**__*__**
+21. IT & Backend**__*__**
+22. Propertii**__*__**
 
-_*Industry Specific Apps_
+_**__*__**Industry Specific Apps_
  
 (List updated on 2022/12/02)
 
