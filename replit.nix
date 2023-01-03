@@ -1,5 +1,8 @@
 { pkgs }: {
   deps = [
+    pkgs.openssh_with_kerberos
+    pkgs.lftp
+    pkgs.telnet
     pkgs.python38Full
   ];
   env = {
