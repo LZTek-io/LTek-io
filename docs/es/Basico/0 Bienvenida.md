@@ -39,6 +39,6 @@ Por favor utilizar la barra de navegación ubicada en la parte izquierda para re
 
 ---
 
-En caso de cualquier consulta o temas que desee que agreguemos a nuestra guía de usuario por favor contactarnos a través de nuestra [Discord Community](https://discord.gg/zNCZnKNXEv)!
+En caso de cualquier consulta o temas que desees que agreguemos a nuestra guía de usuario por favor contactarnos a través de nuestra [Discord Community](https://discord.gg/zNCZnKNXEv)!
 
 Muchas gracias!
