@@ -1,5 +1,5 @@
 # Reports and Exporting
-Tables have lots of cool hidden supoer powers. Two of the most powerful are Reports and Exporting your reports as CSVs.
+Tables have lots of cool hidden super powers. Two of the most powerful are Reports and Exporting your reports as CSVs.
 
 ## Reports
 Each Table can contain multiple reports. Each report has the data formatted in a specific way, or may also be a chart, like a pie chart or bar graph. Often the information on each report is for different purposes.
